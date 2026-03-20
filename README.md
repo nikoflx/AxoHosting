@@ -2,7 +2,7 @@
 A free local minecraft server hosting app that uses playit.gg 
 Uses your PC to host
 
-#Features
+# Features
 Install mods, plug-ins, mod packs
 Custom server RAM
 User-friendly UI
